@@ -1,0 +1,4 @@
+Amount Borrowed: 1200000
+Annual Interest Rate: 5.5
+Payback Periode: 30.0
+Monthly payment: 6600.00
